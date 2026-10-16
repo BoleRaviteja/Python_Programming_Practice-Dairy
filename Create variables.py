@@ -1,0 +1,11 @@
+name = input("Your name: ")
+age = int(input("Enter age: "))
+percentage = float(input("Enter percentage: "))
+is_student = input("Are you a student? (yes/no): ")
+your_city = input("Your city: ")
+
+print(f"Name: {name}")
+print(f"Age: {age}")
+print(f"Percentage: {percentage}")
+print(f"Student: {is_student}")
+print(f"City: {your_city}")
